@@ -81,3 +81,38 @@ A `Cloud Service Provider`(CSP) is a company which:
 
  <img src="/Images/CSP.png" alt="Nw"> 
 
+Note:
+If a company offer multiple cloud services under single UI but do not meet most of or all of those requirements, it would be reffered to as a `Cloud Platform` e.g. Twilio, HashiCorp, Databricks.
+
+**Landscape of CSPs??**
+Landscape of CSP's are divided into 3 types:
+
+**Tier-1**(Top Tier):
+* Early Market, wide offering, strong synergies between services, well recognized in the industry.
+
+Products:
+    1) AWS = Amazon Web Services
+    2) Azure
+    3) GCP = Google Cloud Platform
+    4) Alibaba Cloud
+
+**Tier-2**(Mid Tier):
+* Backed by well-known tech companies, show to innovate and turned to specialization.
+
+Products:
+    1) IBM Cloud
+    2) Oracle Cloud
+    3) Rackspace(OpenStack)
+
+**Tier-3**(Light Tier):
+* Virtual Private Servers(VPS) turned to offer core IaaS offering. Simple, cost-effective
+
+Products:
+    1) Vultr
+    2) Digital Ocean
+    3) Linode
+
+
+**Gartner Magic Quadrant for Cloud :**
+
+
