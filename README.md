@@ -85,9 +85,11 @@ Note:
 If a company offer multiple cloud services under single UI but do not meet most of or all of those requirements, it would be reffered to as a `Cloud Platform` e.g. Twilio, HashiCorp, Databricks.
 
 **Landscape of CSPs??**
+
 Landscape of CSP's are divided into 3 types:
 
 **Tier-1**(Top Tier):
+
 * Early Market, wide offering, strong synergies between services, well recognized in the industry.
 
 Products:
@@ -97,6 +99,7 @@ Products:
     4) Alibaba Cloud
 
 **Tier-2**(Mid Tier):
+
 * Backed by well-known tech companies, show to innovate and turned to specialization.
 
 Products:
@@ -105,6 +108,7 @@ Products:
     3) Rackspace(OpenStack)
 
 **Tier-3**(Light Tier):
+
 * Virtual Private Servers(VPS) turned to offer core IaaS offering. Simple, cost-effective
 
 Products:
@@ -116,3 +120,7 @@ Products:
 **Gartner Magic Quadrant for Cloud :**
 
 
+Start From:
+E:\
+    ->CLOUD COMP
+        -> AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!.mp4
