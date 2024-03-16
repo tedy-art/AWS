@@ -80,16 +80,4 @@ A `Cloud Service Provider`(CSP) is a company which:
 |7| those cloud services offers automation via `Infrastructue as Code`(IoC)|
 
 
-![CSP_normal_cycle](E:\\CLOUD COMP\\AWS C Computing\\Images\\CSP_normal_cycle.png)
-
-echo "# AWS" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tedy-art/AWS.git
-git push -u origin main
-
-git remote add origin https://github.com/tedy-art/AWS.git
-git branch -M main
-git push -u origin main
+![img](https://github.com/tedy-art/AWS/blob/main/Images/CSP_normal_cycle.png)
