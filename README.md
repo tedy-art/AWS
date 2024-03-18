@@ -5,14 +5,14 @@
 
 The practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
 
-|sr.no|without cloud providers|with cloud providers|
-|--|--|--|
-|1|you own the servers|Someone else owns the servers|
-|2|You hire the IT people|Someone else hires the IT people|
-|3|You pay or rent the real-estate|Someone else pays or rents the real-estate|
-|4|You take all the risk|You are responsible for your configuring cloud services and code, someone else take care of the rest|
+| sr.no | without cloud providers         | with cloud providers                                                                                 |
+|-------|---------------------------------|------------------------------------------------------------------------------------------------------|
+| 1     | you own the servers             | Someone else owns the servers                                                                        |
+| 2     | You hire the IT people          | Someone else hires the IT people                                                                     |
+| 3     | You pay or rent the real-estate | Someone else pays or rents the real-estate                                                           |
+| 4     | You take all the risk           | You are responsible for your configuring cloud services and code, someone else take care of the rest |
 
-**Evolation of cloud hosting:**
+**Evolution of cloud hosting:**
 |sr.no|Types of hosting|Description|features|
 |--|--|--|--|
 |1|Dedicated Server|One Physical machine dedicated one single business, runs a single web-app/site|Very Expensive, High Maintenance, *High security|
@@ -28,11 +28,11 @@ Amazon was founded in 1994 by Jeff Bezos and company stated as an online store f
 
 **What is AWS??**
 
-|full|form|
-|-|-|
-|A| Amazon | 
-|W| Web |
-|S| Services|
+| full | form     |
+|------|----------|
+| A    | Amazon   | 
+| W    | Web      |
+| S    | Services |
 
 Amazon calls their cloud provider service `Amazon Web Services` commonly reffered to just `AWS`.
 
@@ -47,29 +47,29 @@ Amazon calls their cloud provider service `Amazon Web Services` commonly reffere
 <hr>
 
 2) Simple Storage Service(S3):
-    * S3 was launched in march of 2006.
+    * S3 was launched in March 2006.
 <hr>
 
 3) Elastic Compute Service(EC2):
-    * EC2 was launched in Augest of 2006.
+    * EC2 was launched in August of 2006.
 <hr>
 
-|In November 2010, it was reported that all of Amazon.com's retail sites had migrated to AWS|
-|-|
+| In November 2010, it was reported that all of Amazon.com's retail sites had migrated to AWS |
+|---------------------------------------------------------------------------------------------|
 
-|To support Indesrty-wide taining and skills standardzation, AWS began offering a certification program for computer engineers, on April, 2013|
-|-|
+| To support Indesrty-wide taining and skills standardzation, AWS began offering a certification program for computer engineers, on April, 2013 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|
 
 **What is a Cloud Service Provider??**
 
-|Full|Form|
-|-|-|
-|C|Cloud|
-|S|Service|
-|P|Provider|
+| Full | Form     |
+|------|----------|
+| C    | Cloud    |
+| S    | Service  |
+| P    | Provider |
 
 A `Cloud Service Provider`(CSP) is a company which:
-|Full|Form|
+|sr.no| CSP's do |
 |-|-|
 |1| provides multiple cloud services e.g.tens of hundreds services.|
 |2| those cloud services can be chained together to create cloud architecture.|
@@ -116,11 +116,48 @@ Products:
     2) Digital Ocean
     3) Linode
 
+**What is Cloud Computing?**
 
-**Gartner Magic Quadrant for Cloud :**
+Cloud computing is a computing service made available over the internet.
+
+Cloud computing is a pay-as-you-go model for delivering IT resources.
+
+You pay only for what you use.
+
+**Common Cloud services:**
+
+A Cloud server provider can have hundreds of services that are grouped into various types of services.
+
+The four most common type of cloud services(the 4 core) for Infrastructure as a Service(IaaS) would be:
+
+*Compute :* Imagine having virtual computer that can run application, program and code.
+
+*Networking :* Imagine having virtual network defining internet connection or network isolation between service or outbond to the internet.
+
+*Storage :* Imagine having virtual hard drive that can store files.
+
+*Databse :* Imagine a virtual database for storing and reporting data ot a database for general purpose web-application.
+
+**Cloud Service providers(CSp's) that are Infrastructure as a Service(IaaS) will always have 4 cloud services offerings :**
+
+|sr.no | Type   | Cloud Service            |
+|------|--------|--------------------------|
+|1     |Compute | EC2 Virtual Machine      |
+|2     |Storage | EBS Virtual Hard drives  |
+|3     |Database| RDS SQL database         |
+|4     |Networke| VPC Private Cloud Network|
+
+Other Service Cloud Provide:
+|sr.no |         Cloud Service            |sr.no |         Cloud Service            |
+|------|----------------------------------|------|----------------------------------|
+|1     | Analytics                        |8     | Developer Tools                  |
+|2     | Application Integration          |9     | End user computer                |
+|3     | AR & VR                          |10    | Game Tech                        |
+|4     | AWS cost management              |11    | Internet of Things               |
+|5     | block Chain                      |12    | Machine Learing                  |
+|6     | Bussiness application            |13    | Management and governance        |
+|7     | Containers                       |14    | Media Services                   |
+|8     | Customer Engagement              |15    | and so on                        |
 
 
-Start From:
-E:\
-    ->CLOUD COMP
-        -> AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!.mp4
+**Evolation Of Computing :**
