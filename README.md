@@ -160,4 +160,25 @@ Other Service Cloud Provide:
 |8     | Customer Engagement              |15    | and so on                        |
 
 
-**Evolation Of Computing :**
+**Types of Cloud Computing :**
+
+1) SaaS : Software as a Service<br>
+   1) A product that run and managed by the service provider.<br>
+   2) *Don't worry about how the service is maintained.*<br>
+   3) *It just works and remains available.*<br>
+   4) Products : Saleforce, gmail, Office 365<br>
+   5) SaaS is generally designed for Customers.
+
+2) PaaS : Platform as a Service
+   1) Focun on the deployment and management of your apps.
+   2) *Don't worry about provisioning, configuring, or understanding the hardware or O.S.*
+   3) Products : Elastic Beanstalk, heroku, google app engin
+   4) it's use for developer.
+
+3) IaaS : Infrastructure as a Service
+   1) The basic building blocks for cloud IT.
+   2) Provides access to networking feature, computers, and data storage space.
+   3) *Don't worry about IT staff, data center and hardware.*
+   4) Products : Microsoft Azure, AWS, Oracle Cloud.
+   5) IaaS directly used from Adminstrator.
+
